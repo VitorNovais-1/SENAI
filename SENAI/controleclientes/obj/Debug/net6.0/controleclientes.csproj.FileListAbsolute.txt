@@ -1,0 +1,15 @@
+C:\Users\Bia\Desktop\SENAI\controleclientes\bin\Debug\net6.0\controleclientes.exe
+C:\Users\Bia\Desktop\SENAI\controleclientes\bin\Debug\net6.0\controleclientes.deps.json
+C:\Users\Bia\Desktop\SENAI\controleclientes\bin\Debug\net6.0\controleclientes.runtimeconfig.json
+C:\Users\Bia\Desktop\SENAI\controleclientes\bin\Debug\net6.0\controleclientes.dll
+C:\Users\Bia\Desktop\SENAI\controleclientes\bin\Debug\net6.0\controleclientes.pdb
+C:\Users\Bia\Desktop\SENAI\controleclientes\obj\Debug\net6.0\controleclientes.csproj.AssemblyReference.cache
+C:\Users\Bia\Desktop\SENAI\controleclientes\obj\Debug\net6.0\controleclientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bia\Desktop\SENAI\controleclientes\obj\Debug\net6.0\controleclientes.AssemblyInfoInputs.cache
+C:\Users\Bia\Desktop\SENAI\controleclientes\obj\Debug\net6.0\controleclientes.AssemblyInfo.cs
+C:\Users\Bia\Desktop\SENAI\controleclientes\obj\Debug\net6.0\controleclientes.csproj.CoreCompileInputs.cache
+C:\Users\Bia\Desktop\SENAI\controleclientes\obj\Debug\net6.0\controleclientes.dll
+C:\Users\Bia\Desktop\SENAI\controleclientes\obj\Debug\net6.0\refint\controleclientes.dll
+C:\Users\Bia\Desktop\SENAI\controleclientes\obj\Debug\net6.0\controleclientes.pdb
+C:\Users\Bia\Desktop\SENAI\controleclientes\obj\Debug\net6.0\controleclientes.genruntimeconfig.cache
+C:\Users\Bia\Desktop\SENAI\controleclientes\obj\Debug\net6.0\ref\controleclientes.dll
